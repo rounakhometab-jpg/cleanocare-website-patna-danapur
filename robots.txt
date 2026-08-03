@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://rounakhometab-jpg.github.io/cleanocare-website-patna-danapur.xml
